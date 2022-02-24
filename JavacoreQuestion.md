@@ -1,5 +1,5 @@
 # JavacoreQuestion
-                                 Những câu hỏi Java core 
+                                                        Những câu hỏi Java core 
 
 ##### 1. JVM là gì?
 - Java Virtual Machine (JVM) là quy trình máy ảo java biên dịch chương trình chạy sang ngôn ngữ máy.
